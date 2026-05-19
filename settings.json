@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "haianhvua.aternos.me",
+    "ip": "8B_SMP2026.aternos.me",
     "port": 53003,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I love Thuy Chuan",
+        "T ĂN ĐỨT LONG (9.4)",
         "IOS GAY",
-        "TRUNG TOP ĐT TIN"
+        "TRUNG TOP 1 ĐT TIN"
       ]
     },
     "chat-log": true,
