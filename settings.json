@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Trung_Cong_Nghe",
+    "username": "Ho_Chi_Minh",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "T ĂN ĐỨT LONG (9.4)",
-        "IOS GAY",
-        "TRUNG TOP 1 ĐT TIN"
+        "2/9/1945",
+        "2/9/1969",
+        "30/4/1975"
       ]
     },
     "chat-log": true,
